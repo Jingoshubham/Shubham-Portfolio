@@ -72,7 +72,7 @@ const MyProjects = () => {
             MY PROJECTS
           </h1>
           <h2 className="lg:text-xl font-Poppins font-medium text-center text-white">
-            Projects I've developed to hone my skills in Frontend Development
+            Projects I've developed to hone my skills in Full Stack Development
           </h2>
         </motion.div>
         <div className="projectsContainer">
